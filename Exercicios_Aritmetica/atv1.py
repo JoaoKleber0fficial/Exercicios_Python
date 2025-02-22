@@ -1,3 +1,11 @@
+""" Atividade 1 """
+
+""" 
+Faça um programa que receba 5 notas, calcule a média aritmética destas notas e
+apresente o resultado. 
+"""
+
+""" RESPOSTA: """
 n1 = float(input("Coloque a primeira nota do Aluno(a): "))
 n2 = float(input("Coloque a segunda nota do Aluno(a): "))
 n3 = float(input("Coloque a terceira nota do Aluno(a): "))
